@@ -1,1 +1,1 @@
-# ReplitStudies
+# ReplitJavaRepository
